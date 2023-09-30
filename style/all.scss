@@ -1,0 +1,8 @@
+@import '../node_modules/bootstrap/scss/functions';
+@import './helper/variables';
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+
+@import './base/base';
+@import './pages/home';
+@import './pages/photo';
