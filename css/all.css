@@ -12867,7 +12867,7 @@ p {
 
 .home_bg {
   background-image: url("../images/banner.webp");
-  background-size: 100% auto;
+  background-size: auto 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
