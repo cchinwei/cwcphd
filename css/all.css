@@ -12802,8 +12802,8 @@ a {
   color: black;
 }
 a:hover {
-  background-image: linear-gradient(0deg, rgba(110, 107, 107, 0.457) 30%, transparent 25.1%);
-  background-position: left 0 bottom 40%;
+  background-image: linear-gradient(0deg, rgba(110, 107, 107, 0.457) 20%, transparent 20.1%, transparent 35%);
+  background-position: left 0 bottom 15%;
 }
 
 img {
@@ -12867,6 +12867,7 @@ p {
 
 .home_bg {
   background-image: url("../images/banner.webp");
+  background-size: 100% 100%;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -12905,10 +12906,6 @@ p {
 .container_table_cell h1, .container_table_cell .h1 {
   text-align: center;
 }
-.container_table_cell p {
-  font-size: 18px;
-  margin-top: 45px;
-}
 
 .social_icons {
   text-align: center;
@@ -12919,7 +12916,7 @@ p {
   width: 30px;
   height: 40px;
   line-height: 40px;
-  font-size: 19px;
+  font-size: 20px;
   margin-right: 7px;
 }
 

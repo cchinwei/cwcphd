@@ -9,6 +9,7 @@
 
 .home_bg {
   background-image: url('../images/banner.webp');
+  background-size: 100% 100%;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -46,10 +47,6 @@
   h1 {
     text-align: center;
   }
-  p {
-    font-size: 18px;
-    margin-top: 45px;
-  }
 }
 .social_icons {
   text-align: center;
@@ -59,7 +56,7 @@
     width: 30px;
     height: 40px;
     line-height: 40px;
-    font-size: 19px;
+    font-size: 20px;
     margin-right: 7px;
   }
 }

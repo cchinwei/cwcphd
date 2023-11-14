@@ -9,10 +9,11 @@ a {
   &:hover {
     background-image: linear-gradient(
       0deg,
-      rgba(110, 107, 107, 0.457) 30%,
-      transparent 25.1%
+      rgba(110, 107, 107, 0.457) 20%,
+      transparent 20.1%,
+      transparent 35%
     );
-    background-position: left 0 bottom 40%;
+    background-position: left 0 bottom 15%;
   }
 }
 
